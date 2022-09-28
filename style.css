@@ -1,0 +1,51 @@
+.bn59 {
+
+  color:white;
+  background-color: #141414;
+  border: 1px solid rgba(54, 54, 54, 0.6);
+  font-weight: 600;
+  position: relative;
+  outline: none;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  height: 70px;
+  width: 130px;
+  opacity: 1;
+  margin-bottom: 10px;
+}
+
+.bn59:hover{
+background-color: white;
+color:black
+
+}
+
+.bn59:active{
+  box-shadow: 0 5px #666;
+}
+
+.buttons{
+  top:150px;
+  width: 158px;
+  height: 158px;
+  position:relative;
+}
+
+#color{
+  height: 70px;
+  width: 130px;
+}
+.quadro{
+border-style: solid;
+border-color: black;
+
+left:30%;
+position:absolute;
+background-color: white;
+cursor:crosshair;
+}
+
+body{background-color: #C4CAD0}
